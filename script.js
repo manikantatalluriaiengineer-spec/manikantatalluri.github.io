@@ -90,6 +90,13 @@ const projects = [
         tech: ["MCP", "Linkup", "LlamaIndex", "Cursor IDE"],
         github: "https://github.com/manikantatalluriaiengineer-spec/Cursor-Linkup-MCP",
         icon: "fa-link"
+    },
+    {
+        title: "Content Planner Flow",
+        description: "Agentic workflow using CrewAI Flow to scrape websites, prepare social posts, and publish them automatically, powered by locally running Llama 3.2.",
+        tech: ["CrewAI Flow", "Llama 3.2", "FireCrawl", "Typefully"],
+        github: "https://github.com/manikantatalluriaiengineer-spec/Content-Planner",
+        icon: "fa-pen"
     }
 ];
 
